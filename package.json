@@ -1,0 +1,30 @@
+{
+  "name": "doctors-finder",
+  "version": "0.0.0",
+  "description": "CS50",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "@expo/samples": "2.1.1",
+    "@uppy/core": "^0.29.0",
+    "@uppy/react": "0.29.1",
+    "expo-asset": "~1.1.1",
+    "expo-constants": "~1.1.0",
+    "expo-file-system": "~1.1.0",
+    "fire": "0.55.1",
+    "firebase": "5.8.2",
+    "native-base": "2.11.0",
+    "react-native-elements": "0.18.5",
+    "react-native-paper": "2.2.8",
+    "react-native-root-view-background": "1.0.2",
+    "react-native-search-filter": "0.1.4",
+    "react-native-vector-icons": "6.1.0",
+    "react-navigation": "2.6.2",
+    "react-redux": "6.0.0",
+    "redux": "^4.0.0-0"
+  }
+}
